@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+### [2.22.2](https://www.github.com/googleapis/python-bigquery/compare/v2.22.1...v2.22.2) (2021-07-25)
+
+
+### Bug Fixes
+
+* retry ChunkedEncodingError by default ([#802](https://www.github.com/googleapis/python-bigquery/issues/802)) ([419d36d](https://www.github.com/googleapis/python-bigquery/commit/419d36d6b1887041e5795dbc8fc808890e91ab11))
+
 ### [2.22.1](https://www.github.com/googleapis/python-bigquery/compare/v2.22.0...v2.22.1) (2021-07-22)
 
 
